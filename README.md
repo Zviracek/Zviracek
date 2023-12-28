@@ -3,7 +3,7 @@
 ==============================
 Cybernetics student
 -------------------
-Cal me Zvěřinec (or Zverinec if you don't know these weird symbols 😁)*
+Cal me Zvěřinec (or Zverinec if you don't know these weird symbols 😁) /br
 🌍  I'm based in Pilsen, Czech Republic* 
 🧠  I'm learning . 😁* 
 🤝  I'm open to collaborating on Anything interesting
