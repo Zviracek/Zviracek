@@ -1,7 +1,7 @@
 
-<h1>Hi 👋 My name is Honza Zvěřina</h1>
-==============================
-Cybernetics student
+<h1>Hi 👋 My name is Honza Zvěřina</h1><br/>
+==============================<br/>
+Cybernetics student<br/>
 -------------------<br/>
 Cal me Zvěřinec (or Zverinec if you don't know these weird symbols 😁) <br/>
 🌍  I'm based in Pilsen, Czech Republic<br/> 
