@@ -3,9 +3,9 @@
 ==============================<br/>
 Cybernetics student<br/>
 -------------------<br/>
-Cal me Zvěřinec (or Zverinec if you don't know these weird symbols 😁) <br/>
+Cal me Zvěřinec (or Zverinec if you don't know these weird symbols 😁). Or whatever you want, i don't really care, lol.<br/>
 🌍  I'm based in Pilsen, Czech Republic<br/> 
-🧠  I'm learning . 😁<br/> 
+🧠  I'm currently learning rust<br/> 
 🤝  I'm open to collaborating on Anything interesting
 
 ### Skills
